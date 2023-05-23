@@ -25,6 +25,9 @@
     "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
   },
+  "commitStatusSettings": {
+    "showWsInfo": true
+  },
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
