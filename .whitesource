@@ -2,6 +2,7 @@
   "scanSettings": {
     "configMode": "AUTO",
     "enableLicenseViolations": true,
+    "projectToken": "5ab5ed937f3742cc9e5eaeea3456cc6dc475b1cf544a4d55941ea538dac0dd78",
     "baseBranches": ["main"]
   },
   "checkRunSettings": {
@@ -12,6 +13,9 @@
   "issueSettings": {
     "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
+  },
+  "commitStatusSettings": {
+    "showWsInfo": true
   },
   "remediateSettings": {
     "workflowRules": {
